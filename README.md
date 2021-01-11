@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: msgli34@gmail.com | [LinkedIn](https://www.linkedin.com/in/anderson-lima-8888731a3/) 
 
 ![Anderson's github stats](https://github-readme-stats.vercel.app/api?username=lima-anderson&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lima-anderson&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
