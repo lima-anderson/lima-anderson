@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📫 How to reach me: msgli34@gmail.com | [LinkedIn](https://www.linkedin.com/in/anderson-lima-8888731a3/) 
 
-![Anderson's github stats](https://github-readme-stats.vercel.app/api?username=lima-anderson&show_icons=true&theme=dracula)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lima-anderson&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Anderson's github stats](https://github-readme-stats.vercel.app/api?username=lima-anderson&show_icons=true)
