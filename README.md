@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 ![Anderson's github stats](https://github-readme-stats.vercel.app/api?username=lima-anderson&show_icons=true&theme=dracula)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lima-anderson&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
+&bg_color=DEG,COLOR1
